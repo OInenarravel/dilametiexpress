@@ -1,0 +1,67 @@
+html{
+    scroll-padding-top: 100px;
+}
+
+body {
+    background-color: #d7d7d7;
+    font-family: Montserrat,sans-serif;
+}
+
+body nav {
+    border-bottom-color: #dc3545;
+    border-bottom-left-radius: 10px;
+}
+
+body nav .container-fluid a spam{
+    color: #dc3545;
+}
+
+#carouselExampleCaptions{
+    margin-bottom: 40px;
+}
+
+h2, h5 {
+    text-align: center;
+    padding-bottom: 10px;
+    border-color: #dc3545;
+}
+
+.card {
+    border-bottom-right-radius: 0;
+    padding-top: 20px;
+}
+
+.card-img{
+    height: 80px;
+    width: 80px;
+}
+
+#produtos-eucafloor card-group card-img-top{
+    padding-top: 0;
+}
+
+#botao-portifolio, #botao-enviar-contato{
+    font-color: #212529;
+    background-color: #ffffff;
+    border-bottom-right-radius: 0;
+    border-bottom-width: 5px;
+    border-color: #dc3545;
+    width: auto;
+}
+
+#botao-fechar-contato{
+    font-color: #212529;
+    border-bottom-right-radius: 0;
+    border-bottom-width: 5px;
+    border-color: #dc3545;
+    background-color: #d7d7d7;
+}
+
+footer .container .row{
+    height: 80px;
+    background-color: #dc3545;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
