@@ -1,5 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+.idea/
+/js/token.js
 # Editor-based HTTP Client requests
 /httpRequests/
